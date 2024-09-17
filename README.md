@@ -8,7 +8,6 @@ This repository contains scratch code for various image filters implemented from
   - [Mean Filter](#mean-filter)
   - [Linear Filter](#linear-filter)
   - [Average Filter](#average-filter)
-  - [Output](#output)
 - [Conclusion](#conclusion)
 
 ## Filters Overview
@@ -37,10 +36,6 @@ This repository contains scratch code for various image filters implemented from
 - **Purpose**: Primarily used for smoothing images and reducing noise.
 - **References**:
   - "Digital Image Processing" by Rafael C. Gonzalez and Richard E. Woods
-
-## Output
-![Result After Applying Filters](C:\Users\Zahran Zahid\CvLabWork\output1.jpg)
-![Result After Applying Filters](C:\Users\Zahran Zahid\CvLabWork\output2.jpg)
 
 ## Conclusion
 
