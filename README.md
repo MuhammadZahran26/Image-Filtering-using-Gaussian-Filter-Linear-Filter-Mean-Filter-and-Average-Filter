@@ -8,6 +8,7 @@ This repository contains scratch code for various image filters implemented from
   - [Mean Filter](#mean-filter)
   - [Linear Filter](#linear-filter)
   - [Average Filter](#average-filter)
+  - [Output](#output)
 - [Conclusion](#conclusion)
 
 ## Filters Overview
@@ -30,6 +31,10 @@ This repository contains scratch code for various image filters implemented from
 - **Purpose**: Effective for various image processing tasks, including smoothing and noise reduction.
 - **References**:
   - "Machine Vision" by R. C. Gonzalez 
+
+## Output
+![Result After Applying Filters](https://github.com/MuhammadZahran26/Image-Filtering-using-Gaussian-Filter-Linear-Filter-Mean-Filter-and-Average-Filter/blob/main/output1.jpg)
+![Result After Applying Filters](https://github.com/MuhammadZahran26/Image-Filtering-using-Gaussian-Filter-Linear-Filter-Mean-Filter-and-Average-Filter/blob/main/output2.jpg)
 
 ### Average Filter
 - **Description**: Similar to the mean filter, the average filter computes the average of pixel values in a neighborhood.
